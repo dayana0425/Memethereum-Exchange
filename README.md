@@ -4,3 +4,6 @@
 
 #### Technologies Used: Solidity, React, Ethers, Hardhat, IPFS
 
+#### Note: The backbone of the codebase is from CryptoZombies. https://cryptozombies.io/en/course
+
+
