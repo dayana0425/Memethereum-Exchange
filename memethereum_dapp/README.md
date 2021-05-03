@@ -1,4 +1,4 @@
 # Directory description
 
-This should be the whole functioning CryptoZombies UI project.
-This will be the code that we will edit for the project as long as it compiles properly
+#### /Contracts contains Solidity Smart Contracts
+#### /memethereum_front_end is the React App which communicates with the Smart Contracts
